@@ -1,0 +1,1 @@
+const string API_ENDPOINT = "https://discordapp.com/api/v7";

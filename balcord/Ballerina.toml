@@ -1,0 +1,7 @@
+[project]
+org-name = "munchii"
+version = "0.0.1"
+license = ["MIT"]
+authors = ["Munchii"]
+keywords = ["discord api", "discord"]
+repository = "https://github.com/Dmunch04/balcord"
